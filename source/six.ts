@@ -1,5 +1,5 @@
 /**
- * @license MIT
+ * @license Apache License v2.0
  * @author Six
  * @version 1.0.0
  * 
