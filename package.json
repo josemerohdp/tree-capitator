@@ -1,5 +1,15 @@
 {
+  "name": "tree-capitator",
+  "version": "1.0.0",
+  "description": "Chop trees instantly!",
+  "main": "scripts/six.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "build:watch": "tsc -w"
+  },
   "dependencies": {
     "@minecraft/server": "^2.1.0"
-  }
+  },
+  "author": "Six"
 }
