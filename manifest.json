@@ -1,0 +1,46 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Tree Capitator",
+        "description": "§7Creator by: §fSix§7\nDiscord: §fjosemerohdp",
+        "min_engine_version": [
+            1,
+            21,
+            81
+        ],
+        "uuid": "f08dc09f-7101-4633-8b3b-2c132f16ba7e",
+        "version": [
+            1,
+            0,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "b5921f36-a032-4210-b115-8e3c7a4136c0",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "type": "script",
+            "language": "javascript",
+            "uuid": "636aa17a-c2ee-407f-8753-99287c6f0437",
+            "entry": "scripts/six.js",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ],
+    "dependencies": [
+        {
+            "module_name": "@minecraft/server",
+            "version": "2.1.0"
+        }
+    ]
+}
